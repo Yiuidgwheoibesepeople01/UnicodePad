@@ -14,3 +14,5 @@ They will be reviewed by @Ryosuke839 and may be included in the next release.
 
 Currently, I'm looking for translation contributions especially.
 https://github.com/Ryosuke839/UnicodePad/blob/master/app/src/main/res/values/strings.xml
+
+![U+A0000 Yiuidgwheoibese_Screenshot_20221205_135758 (1)(2)](https://user-images.githubusercontent.com/119797249/205571306-7f653237-b7c1-4a17-90de-dba8ab6a8449.jpg)
